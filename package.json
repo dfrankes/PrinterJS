@@ -1,0 +1,30 @@
+{
+  "name": "printerjs",
+  "version": "1.0.0",
+  "description": "Web Interface for your 3D printer",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfrankes/PrinterJS.git"
+  },
+  "keywords": [
+    "3d",
+    "printer",
+    "3D",
+    "3d",
+    "printer",
+    "interface"
+  ],
+  "author": "Davy Frankes",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dfrankes/PrinterJS/issues"
+  },
+  "homepage": "https://github.com/dfrankes/PrinterJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
